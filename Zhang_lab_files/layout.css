@@ -1,0 +1,190 @@
+/*------------------------------------------------------------------------
+# HOT Furniture Store, Version 1.0 - July, 2010
+# Copyright (C) 2010 Hot Joomla Templates. All Rights Reserved.
+# @license - Copyrighted Commercial Software
+# Author: Hot Joomla Templates
+# Website:  http://www.hotjoomlatemplates.com
+-------------------------------------------------------------------------*/
+
+html {
+	font-size:12px;
+}
+
+body {
+	margin:0;
+	padding:0;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height:20px;
+}
+
+.wrap {
+	margin:0 auto;
+	position:relative;
+	height:auto;
+}
+
+#logo {
+	height:126px;
+	width:228px;
+	float:left;
+}
+	
+#topmenu {
+	height:126px;
+	margin:0 auto;
+}
+
+#topmenu_pad {
+	padding:22px 4px 0px 4px;
+	float:right;
+	width:724px;
+	text-align:right
+}
+
+#carousel_wrap {
+	overflow:hidden;
+	padding:1px 0 0 0;
+	width:100%;
+}
+
+.carousel_module {
+	overflow:hidden;
+	margin:0 auto;
+}
+
+.header_line {
+	height:1px;
+	background:url(../images/header_line.png) top center no-repeat;
+}
+
+#content_and_right {
+	float:left;
+	background:url(../images/content_and_right_shadow.png) repeat-y;
+}
+
+.content_main_shadow {
+	background:url(../images/body_shadow.png) center repeat-y	
+}
+
+.main_area {
+	margin:0 auto;
+	background:#fff;
+}
+
+#content_wrap_top {
+	float:left;
+}
+
+.content_wrap {
+	margin-top:0px;
+}
+
+.content_pad {
+	padding:30px 30px;
+	border-right:2px dotted #dfdccf;
+	margin:0;
+}
+
+.content_pad_noright {
+	padding:30px;
+	margin:0;
+}
+
+.content_pad_home, .content_pad_home_noright {
+	padding:0 30px;
+	margin:0;
+}
+
+#column_left {
+	float:left;
+	line-height:normal;
+}
+
+.column_left_pad {
+	padding:15px 0 0 0;
+}
+
+#column_right {
+	float:left;
+	line-height:normal;
+}
+
+.column_right_pad {
+	padding:30px 15px 0 15px;
+}
+
+.module_inset, .module_toolbar {
+	padding-bottom:30px;
+}
+
+.upper {
+	margin:0 auto;
+	padding:0;
+}
+
+.bottom {
+	padding:20px 0;
+	margin:0 auto;
+}
+
+.modulerow1 {
+	width:99.9%;
+	float:left;
+}
+
+.modulerow2 {
+	width:49.7%;
+	float:left;
+}
+
+.modulerow3 {
+	width:33.1%;
+	float:left;
+}
+
+.modulerow4 {
+	width:24.79%;
+	float:left;
+	padding:20px 0;
+}
+
+.bottom .modulerow1, .bottom .modulerow2, .bottom .modulerow3, .bottom .modulerow4 {
+	border-left:0px !important;
+}
+
+.footer_wrap {
+	padding:0 0 10px 0;
+}
+
+.footer_content {
+	margin:0 auto;
+}
+
+.footer_wrap_copyright_content {
+	margin:0 auto;
+}
+
+.footer {
+	width:50%;
+	float:left;
+}
+
+.footer2 {
+	width:50%;
+	float:left;
+	text-align:right;
+	color:#cca673;
+	padding:5px 0;
+}
+
+.footer_pad {
+	padding:5px 0;
+}
+
+.footer_wrap_copyright {
+	padding:5px 0 10px 0;
+}
+
+.clr {
+	clear:both;
+}
